@@ -65,9 +65,9 @@ The following table summarizes the performance of all three models on the test d
 
 | **Model**              | **Accuracy** | **Precision (avg)** | **Recall (avg)** | **F1-Score (avg)** |
 |-------------------------|--------------|---------------------|------------------|--------------------|
-| Logistic Regression     | 0.73         | 0.73                | 0.69             | 0.72               |
-| **XGBoost**             | **0.82**     | **0.82**            | **0.82**         | **0.82**           |
-| SVM                     | 0.75         | 0.75                | 0.71             | 0.74               |
+| Logistic Regression     | 0.74         | 0.72                | 0.69             | 0.70               |
+| **XGBoost**             | **0.82**     | **0.81**            | **0.80**         | **0.81**           |
+| SVM                     | 0.75         | 0.73                | 0.70             | 0.70               |
 
 ---
 
